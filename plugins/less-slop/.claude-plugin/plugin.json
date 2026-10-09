@@ -1,0 +1,7 @@
+{
+  "name": "less-slop",
+  "version": "0.1.0",
+  "description": "Appends plain-writing rules (prompt.md) to the system prompt of every session",
+  "author": { "name": "notHide" },
+  "repository": "https://github.com/notHide/claude-plugins"
+}

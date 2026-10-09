@@ -9,6 +9,11 @@
       "name": "usage-line",
       "source": "./plugins/usage-line",
       "description": "Model, effort, context fill against autocompact, 5-hour and weekly limits under the prompt"
+    },
+    {
+      "name": "less-slop",
+      "source": "./plugins/less-slop",
+      "description": "Appends plain-writing rules (prompt.md) to the system prompt of every session"
     }
   ]
 }
