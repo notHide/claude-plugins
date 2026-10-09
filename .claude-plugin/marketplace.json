@@ -1,0 +1,14 @@
+{
+  "name": "notHide",
+  "owner": {
+    "name": "notHide"
+  },
+  "description": "notHide's Claude Code plugins",
+  "plugins": [
+    {
+      "name": "usage-line",
+      "source": "./plugins/usage-line",
+      "description": "Model, effort, context fill against autocompact, 5-hour and weekly limits under the prompt"
+    }
+  ]
+}
